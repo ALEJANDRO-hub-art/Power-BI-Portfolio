@@ -26,7 +26,7 @@ Power BI analysis of HR Analytics data focusing on demographics and employee att
 - Attrition pattern by education, salary, age, gender, and job role
 - HR analysis by attrition
 
-[📁 View Project](./HR%20Analytics%20Analysis/)
+[📁 View Project](HR%20Analytics%20Analysis/)
 
 
 # Heading 1 (Title)
