@@ -29,12 +29,3 @@ Power BI analysis of HR Analytics data focusing on demographics and employee att
 [📁 View Project](./HR%20Analysis/)
 
 
-# Heading 1 (Title)
-## Heading 2 (Section)
-### Heading 3 (Subsection)
-
-**This is bold**
-
-- Item 1
-- Item 2
-  - Sub-item
