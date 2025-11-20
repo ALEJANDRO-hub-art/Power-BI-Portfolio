@@ -34,7 +34,7 @@ on the employee profile attributes.
 - Displayed attrition by salary with salary slab and the count in a stacked bar chart.
 - Visualized attrition by years at the company with its corresponding count in a area chart. 
 - Displayed attrition by job role and its corresponding count in a stacked bar chart.
-- Added the analysis of the HR to the report using a text box.
+- Added the analysis title of the HR to the report using a text box.
 
 <img width="908" height="516" alt="HR Dashboard image" src="https://github.com/user-attachments/assets/c4621be9-1305-430a-bfa0-c46622a4a370" />
 
