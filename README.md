@@ -12,6 +12,22 @@ DAX Expertise: Creating advanced formulas and KPI calculations
 Visual Design: Developing interactive dashboards, reports, and visual analytics
 Business Intelligence: Delivering meaningful insights and data-driven stories
 
+## Projects
+### 1 HR Analytics Dashboard
+Power BI analysis of HR Analytics data focusing on demographics and employee attrition.
+
+### Power BI Features Used:
+Power Query for data cleaning and transformation
+Data modeling with relationships between HR, Department, Education and Jobs
+Interactive visuals: slicers, donut charts, bar charts, line charts and Matrix
+
+### Business Insights Delivered:
+Employee age distribution and Gender-based account balance analysis
+Attrition pattern by education, salary, age, gender, and job role
+HR analysis by attrition
+
+
+
 # Heading 1 (Title)
 ## Heading 2 (Section)
 ### Heading 3 (Subsection)
