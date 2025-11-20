@@ -6,11 +6,11 @@ Welcome to my Power BI Portfolio! Here, you’ll find a collection of projects t
 I am a data analyst with a strong analytical mindset who turns complex business challenges into clear insights and impactful Power BI dashboards.
 
 ## Power BI Skills Highlighted
-Data Transformation: Using Power Query for ETL, data cleaning, and combining datasets
-Data Modeling: Building relationships, calculated columns, and measures
-DAX Expertise: Creating advanced formulas and KPI calculations
-Visual Design: Developing interactive dashboards, reports, and visual analytics
-Business Intelligence: Delivering meaningful insights and data-driven stories
+-Data Transformation: Using Power Query for ETL, data cleaning, and combining datasets
+-Data Modeling: Building relationships, calculated columns, and measures
+-DAX Expertise: Creating advanced formulas and KPI calculations
+-Visual Design: Developing interactive dashboards, reports, and visual analytics
+-Business Intelligence: Delivering meaningful insights and data-driven stories
 
 ## Projects
 ### 1 HR Analytics Dashboard
