@@ -13,7 +13,7 @@ I am a data analyst with a strong analytical mindset who turns complex business 
 - Business Intelligence: Delivering meaningful insights and data-driven stories
 
 ## Projects
-### 1 HR Analytics Dashboard
+### 1. HR Analytics Dashboard
 Power BI analysis of HR Analytics data focusing on demographics and employee attrition.
 
 ### Power BI Features Used:
@@ -26,6 +26,7 @@ Power BI analysis of HR Analytics data focusing on demographics and employee att
 - Attrition pattern by education, salary, age, gender, and job role
 - HR analysis by attrition
 
+<a href="YOUR_LINK_HERE">
 
 
 # Heading 1 (Title)
